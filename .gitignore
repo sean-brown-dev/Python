@@ -1,0 +1,10 @@
+
+PasswordChecker/venv/bin/
+
+PasswordChecker/venv/lib/
+
+PasswordChecker/venv/lib64
+
+PasswordChecker/.idea/
+
+PasswordChecker/venv/pyvenv.cfg
