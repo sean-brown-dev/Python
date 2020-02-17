@@ -23,6 +23,6 @@ You will need to create an XML file structured like this so that it can link to 
 
 ### Flask
 ```
-Require Flask
+Requires Flask
 ```
 Very simple Flask example
