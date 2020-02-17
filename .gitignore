@@ -1,0 +1,6 @@
+Flask/venv/lib/python3.7/
+Flask/venv/bin/
+Flask/.idea/
+Flask/venv/__pycache__/
+Flask/venv/lib64
+Flask/venv/pyvenv.cfg
